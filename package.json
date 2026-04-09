@@ -1,0 +1,12 @@
+{
+  "name": "pi-context-inspect",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Diagnostic tool for Pi context window breakdown",
+  "author": "Alexis Gallagher",
+  "keywords": ["pi-extension"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
